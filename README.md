@@ -11,7 +11,7 @@
 例に使用した環境: RockyLinux9. 必要な物: git, go.
 1. 配置したいフォルダ内部でgitを使用してcloneします。
 ```
-git clone github.com/ka012c/gomemt
+git clone https://github.com/ka012c/gomemt
 ```
 
 2. goを使用しbuildします。
