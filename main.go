@@ -26,6 +26,6 @@ func main() {
 		//既存の単位はMiBです。
 
 		time.Sleep(100 * time.Millisecond)
-		//単位はMicroSecondです。(既存値: 100ms)
+		//単位はMilliSecondです。(既存値: 100ms)
 	}
 }
